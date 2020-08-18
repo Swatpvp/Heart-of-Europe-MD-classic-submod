@@ -1,0 +1,11 @@
+SpriteTypes = {	
+
+	spriteType = {
+		name = "GFX_idea_otto_von_habsburg"
+		texturefile = "gfx/interface/ideas/hungary/hun_otto_von.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_gypsies"
+		texturefile = "gfx/interface/ideas/hungary/hun_gypsies.dds"
+	}		
+}	

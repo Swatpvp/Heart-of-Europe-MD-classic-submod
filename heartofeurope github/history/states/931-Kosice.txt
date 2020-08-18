@@ -1,0 +1,18 @@
+state={
+	id=931
+	name="STATE_931"
+	provinces={
+		3565 6561 6573 9537 
+	}
+history = {
+
+owner = SLO
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 2
+}
+add_core_of = SLO
+}
+	manpower=300000
+	buildings_max_level_factor=1.000
+}
